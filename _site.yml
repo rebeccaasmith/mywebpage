@@ -1,0 +1,9 @@
+name: "Rebecca Smith - Professional Skills Webpage"  
+author: "Rebecca Smith"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "Professional Skills"
