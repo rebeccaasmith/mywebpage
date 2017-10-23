@@ -2,14 +2,14 @@
 title: "Rebecca Smith - Professional Skills"
 ---
 
-## ABOUT ME
+### ABOUT ME
 I am an MSc student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 I am doing the Research Methods of Psychological Science course, working under the supervision of [Frank E. Pollick](https://www.gla.ac.uk/schools/psychology/staff/frankpollick/).
 
-## ABOUT THIS PAGE
+### ABOUT THIS PAGE
 On this site you can find information about my previous, current, and upcoming projects.
 
-## CONTACT ME
+### CONTACT ME
 Contact Email: (2079456S@student.gla.ac.uk)
 
